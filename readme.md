@@ -13,7 +13,7 @@ This project demonstrates how to use Docker to serve a simple static web page us
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/<your-username>/docker-nginx-static.git
+git clone https://github.com/Raiyan03/dockerChallenge1.git
 cd docker-nginx-static
 ```
 
