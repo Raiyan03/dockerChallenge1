@@ -1,6 +1,3 @@
-Sure! Here is a `README.md` file for your GitHub project with instructions for installation and running the Docker container:
-
-```markdown
 # Docker NGINX Static Web Server
 
 This project demonstrates how to use Docker to serve a simple static web page using NGINX. Follow the instructions below to set up and run the project.
@@ -40,25 +37,9 @@ docker run -d -p 8080:80 my-nginx-static
 
 Open a web browser and navigate to `http://localhost:8080/`. You should see the HTML page with your name and student ID.
 
-## Project Structure
-
-```
-docker-nginx-static/
-│
-├── index.html
-├── Dockerfile
-└── README.md
-```
 
 ## Additional Resources
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Docker Documentation](https://docs.docker.com/)
 - [NGINX Documentation](https://nginx.org/en/docs/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `<your-username>` with your actual GitHub username in the clone command. This README file provides clear instructions for installation and running the Docker container, making it easy for others to follow.
